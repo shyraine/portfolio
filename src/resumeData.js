@@ -5,7 +5,7 @@ let resumeData = {
     "role": "Full-Stack Web Developer",
     "email":"borresshyraine@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am full-stack software developer with over 6 years of hands-on expertise in designing, developing and deploying various software solutions.",
+    "roleDescription": "I am a full-stack software developer with over 6 years of hands-on expertise in designing, developing and deploying various software solutions.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -23,7 +23,7 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am Shyraine Borres from the Philippines. You can call me Shy. I have over 6 years of software development experience. In my previous roles, I've worked on a variety of projects, gaining proficiency in Java(Spring Hibernate), MuleSoft, SQL(MySQL and PostgreSQL) as well as front-end development(ReactJS and Angular). I have also knowledge in Cloud Platforms, DevOps and Software Methodologies. I have a strong track record of collaborating with cross-functional teams to deliver high-quality software solutions that meet business needs. ",
+    "aboutme":"I am Shyraine Borres from the Philippines. I have over 6 years of software development experience. In my previous roles, I've worked on a variety of projects, gaining proficiency in Java(Spring Hibernate), MuleSoft, SQL(MySQL and PostgreSQL) as well as front-end development(ReactJS and Angular). I have also knowledge in Cloud Platforms, DevOps and Software Methodologies. I have a strong track record of collaborating with cross-functional teams to deliver high-quality software solutions that meet business needs. ",
     "address":"Cebu, Philippines",
     "website":"https://shyraineborres.github.io",
     "education":[
@@ -38,28 +38,25 @@ let resumeData = {
       {
         "CompanyName":"Deloitte",
         "specialization":"Software Engineer",
-        "YearOfLeaving":"Present",
+        "Tenure":"Apr 2022 - Present",
         "Achievements":""
       },
       {
         "CompanyName":"Accenture",
         "specialization":"Application Development Senior Analyst",
-        "MonthOfLeaving":"Apr",
-        "YearOfLeaving":"2022",
+        "Tenure":"Nov 2018 - Apr 2022",
         "Achievements":""
       },
       {
         "CompanyName":"Bluefrog Contents & Support",
         "specialization":"Web Developer",
-        "MonthOfLeaving":"Sept",
-        "YearOfLeaving":"2018",
+        "Tenure":"Jun 2018 - Sep 2018",
         "Achievements":""
       },
       {
         "CompanyName":"AAS IT Services",
         "specialization":"Web Developer",
-        "MonthOfLeaving":"Feb",
-        "YearOfLeaving":"2018",
+        "Tenure":"Apr 2017 - Feb 2018",
         "Achievements":""
       }
     ],
@@ -68,7 +65,13 @@ let resumeData = {
         "skillname":"Java"
       },
       {
+        "skillname":"JUnit"
+      },
+      {
         "skillname":"MuleSoft"
+      },
+      {
+        "skillname":"MUnit"
       },
       {
         "skillname":"ReactJS"
@@ -101,7 +104,7 @@ let resumeData = {
         "skillname":"GCP"
       },
       {
-        "skillname":"Agile Software Methodology"
+        "skillname":"Agile"
       },
       {
         "skillname":"Jenkins"
@@ -124,22 +127,28 @@ let resumeData = {
     ],
     "certifications":[
       {
-        "name":"MuleSoft Certified Integration Associate (Jun 2022 - Jun 2024)",
+        "name":"MuleSoft Certified Integration Associate",
+        "logo":"images/certifications/mule-ai-cert.png"
       },
       {
         "name":"MuleSoft Certified Developer - Level 1",
+        "logo":"images/certifications/mule-dev-cert.png"
       },
       {
-        "name":"Certified SAFe 4 Practitioner (Nov 2020 – Nov 2021)",
+        "name":"Certified SAFe 4 Practitioner",
+        "logo":"images/certifications/safe-4.png"
       },
       {
         "name":"HL7 FHIR Fundamentals Course Completer",
+        "logo":"images/certifications/hl7-fhir.jpg"
       },
       {
         "name":"Boomi Associate Developer",
+        "logo":"images/certifications/boomi-associate.jpg"
       },
       {
-        "name":"Boomi Professional Developer Certification (Jul 2022 - Jul 2024)",
+        "name":"Boomi Professional Developer Certification",
+        "logo":"images/certifications/boomi-professional.jpg"
       }
     ],
     "testimonials":[

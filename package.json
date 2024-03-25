@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shyraine.github.io/shyraineborres.github.io/",
+  "homepage": "https://shyraine.github.io/portfolio/",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",

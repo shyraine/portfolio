@@ -17,7 +17,7 @@ export default class Resume extends Component {
                       <h3>{item.CompanyName}</h3>
                       <p className="info">
                         {item.specialization}
-                        <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.YearOfLeaving}</em></p>
+                        <span>&bull;</span> <em className="date">{item.MonthOfLeaving} {item.Tenure}</em></p>
                       <p>
                         {item.Achievements}
                       </p>
@@ -36,11 +36,12 @@ export default class Resume extends Component {
             {
               resumeData.certifications && resumeData.certifications.map((item) => {
                 return (
-                  <div className="row item">
+                  // <div className="row item">
                     <div className="certifications_list">
-                      <li>{item.name}</li>
+                      <img className="certifications_image" src={item.logo}/>
+                      <small className='certifications_text'>{item.name}</small>
                     </div>
-                  </div>
+                  // </div>
                 )
               })
             }
