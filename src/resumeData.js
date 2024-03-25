@@ -23,9 +23,9 @@ let resumeData = {
           "className":"fa fa-envelope"
         }
       ],
-    "aboutme":"I am Shyraine Borres from the Philippines. I have over 6 years of software development experience. In my previous roles, I've worked on a variety of projects, gaining proficiency in Java(Spring Hibernate), MuleSoft, SQL(MySQL and PostgreSQL) as well as front-end development(ReactJS and Angular). I have also knowledge in Cloud Platforms, DevOps and Software Methodologies. I have a strong track record of collaborating with cross-functional teams to deliver high-quality software solutions that meet business needs. ",
+    "aboutme":"I am Shyraine Borres. I have over 6 years of experience in the IT industry. In my previous roles, I've worked on a variety of projects, gaining proficiency in Java(Spring Hibernate), MuleSoft, SQL(MySQL and PostgreSQL) as well as front-end development(ReactJS and Angular). I have also knowledge in Cloud Platforms, DevOps and Software Methodologies. I have a strong track record of collaborating with cross-functional teams to deliver high-quality software solutions that meet business needs. ",
     "address":"Cebu, Philippines",
-    "website":"https://shyraineborres.github.io",
+    "website":"https://shyraine.github.io/portfolio",
     "education":[
       {
         "UniversityName":"University of Cebu - Banilad",
@@ -143,11 +143,11 @@ let resumeData = {
         "logo":"images/certifications/hl7-fhir.jpg"
       },
       {
-        "name":"Boomi Associate Developer",
+        "name":"Boomi  Associate Developer",
         "logo":"images/certifications/boomi-associate.jpg"
       },
       {
-        "name":"Boomi Professional Developer Certification",
+        "name":"Boomi Professional Developer",
         "logo":"images/certifications/boomi-professional.jpg"
       }
     ],
