@@ -57,7 +57,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -71,7 +71,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #a8a8a8;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -135,7 +135,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 13px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -152,7 +152,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 #nav-wrap > a.mobile-btn { display: none; }
 
 ul#nav {
-   min-height: 48px;
+   min-height: 60px;
    width: auto;
 
    /* center align the menu */
@@ -170,8 +170,8 @@ ul#nav li a {
 
 
    display: inline-block;
-   padding: 8px 13px;
-   line-height: 32px;
+   padding: 12px 15px;
+   line-height: 35px;
 	text-decoration: none;
    text-align: left;
    color: #fff;
@@ -656,12 +656,25 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 .certifications_list {
-   padding-bottom: .25rem;
-   margin-bottom: .05rem;
-   font-size: 1.5rem;
-   border-radius: 5px;
+   display: inline-grid;
+   width: 20rem;
    font-weight: bold;
-   color: #666;
+   padding-bottom: 2.25rem;
+   padding-right: 1.5rem;
+}
+
+.certifications_image {
+   width: 100px;
+   height: 100px;
+   background-color: #fff;
+   border-radius: 0;
+   margin: auto;
+}
+
+.certifications_text{
+   font-size: 1.3rem;
+   line-height: 17px;
+   text-align: center;
 }
 
 #testimonials {
